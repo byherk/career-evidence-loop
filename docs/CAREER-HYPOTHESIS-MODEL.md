@@ -70,22 +70,22 @@ The following are not equivalent:
 
 ### Interest
 
-"I enjoy this."
+> "I enjoy this."
 
 ### Ability
 
-"I currently perform this well."
+> "I currently perform this well."
 
 ### Learning potential
 
-"I improve quickly when learning this."
+> "I improve quickly when learning this."
 
 ### Career fit
 
-"This kind of work may suit my abilities, motivation, context, and desired life."
+> "This kind of work may suit my abilities, motivation, context, and desired life."
 
 The model should not collapse these concepts into a single score.
 
 ## Principle
 
-Career fit is a hypothesis to test, not a verdict to accept.
+> **Career fit is a hypothesis to test, not a verdict to accept.**

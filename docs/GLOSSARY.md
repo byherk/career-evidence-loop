@@ -10,7 +10,7 @@ Something directly recorded or reported.
 
 Example:
 
-The learner completed the task without assistance.
+> The learner completed the task without assistance.
 
 ## Evidence
 
@@ -24,7 +24,7 @@ An interpretation derived from evidence.
 
 Example:
 
-The learner may have strong spatial reasoning.
+> The learner may have strong spatial reasoning.
 
 ## Hypothesis
 
@@ -32,7 +32,7 @@ A provisional explanation or possibility that can be tested.
 
 Example:
 
-Industrial design may be a promising career direction.
+> Industrial design may be a promising career direction.
 
 ## Career hypothesis
 

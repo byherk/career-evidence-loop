@@ -105,4 +105,4 @@ Consensus should not be manufactured artificially.
 
 ## Principle
 
-Human judgment should become traceable evidence, not invisible authority.
+> **Human judgment should become traceable evidence, not invisible authority.**

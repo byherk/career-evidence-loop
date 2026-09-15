@@ -6,11 +6,11 @@ Learner repeatedly explores marine science.
 
 Current conclusion:
 
-Sustained interest signal.
+> **Sustained interest signal.**
 
 Not:
 
-Marine scientist aptitude.
+> Marine scientist aptitude.
 
 ## Step 2 — Learning task
 

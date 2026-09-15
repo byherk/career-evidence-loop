@@ -132,6 +132,6 @@ Contradiction may itself be useful evidence.
 
 Missing evidence must remain distinguishable from negative evidence.
 
-Not observed ≠ unable.
+> **Not observed ≠ unable.**
 
 This principle is especially important when learners have unequal access to opportunities.

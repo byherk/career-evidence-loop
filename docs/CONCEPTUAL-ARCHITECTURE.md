@@ -147,6 +147,6 @@ AI-generated hypotheses should support reflection and exploration, not replace p
 
 ## Architecture principle
 
-AI manages hypotheses; people live the consequences.
+> **AI manages hypotheses; people live the consequences.**
 
 The architecture should therefore make uncertainty visible and preserve meaningful human oversight.

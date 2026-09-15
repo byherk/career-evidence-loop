@@ -198,7 +198,7 @@ The open question for this project is not whether those fields exist.
 
 It is:
 
-Can their insights be integrated into a longitudinal, evidence-seeking, human-in-the-loop system that supports career exploration without overstating what it knows?
+> **Can their insights be integrated into a longitudinal, evidence-seeking, human-in-the-loop system that supports career exploration without overstating what it knows?**
 
 ## Next steps
 
@@ -213,4 +213,4 @@ This map should gradually include:
 * known limitations;
 * areas of disagreement between fields.
 
-See `../research/REFERENCES.md`.
+See [`../research/REFERENCES.md`](../research/REFERENCES.md).

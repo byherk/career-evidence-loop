@@ -174,7 +174,7 @@ Relevant research areas include:
 * Occupational and Skills Taxonomies
 * Meaningful Work and Decent Work
 
-See `docs/RESEARCH-MAP.md` and `research/REFERENCES.md`.
+See [`docs/RESEARCH-MAP.md`](docs/RESEARCH-MAP.md) and [`research/REFERENCES.md`](research/REFERENCES.md).
 
 ## What may be worth exploring
 
@@ -223,25 +223,25 @@ For example:
 
 This suggests a broader relationship:
 
-Person ↔ Work ↔ Society
+**Person ↔ Work ↔ Society**
 
 rather than only:
 
-Person → Job
+**Person → Job**
 
 ## Repository map
 
-* `docs/PROBLEM-STATEMENT.md` — the problem this project is trying to understand
-* `docs/RESEARCH-MAP.md` — relevant research traditions and neighboring fields
-* `docs/CONCEPTUAL-ARCHITECTURE.md` — the proposed system-level model
-* `docs/EVIDENCE-MODEL.md` — how evidence might be represented
-* `docs/CAREER-HYPOTHESIS-MODEL.md` — how career hypotheses might be formed and revised
-* `docs/HUMAN-IN-THE-LOOP.md` — where human judgment belongs
-* `docs/ETHICS-AND-SAFETY.md` — major ethical and safety concerns
-* `docs/OPEN-QUESTIONS.md` — questions that remain unresolved
-* `research/` — references and literature notes
-* `examples/` — small conceptual examples
-* `schemas/` — future structured representations of evidence and hypotheses
+* [`docs/PROBLEM-STATEMENT.md`](docs/PROBLEM-STATEMENT.md) — the problem this project is trying to understand
+* [`docs/RESEARCH-MAP.md`](docs/RESEARCH-MAP.md) — relevant research traditions and neighboring fields
+* [`docs/CONCEPTUAL-ARCHITECTURE.md`](docs/CONCEPTUAL-ARCHITECTURE.md) — the proposed system-level model
+* [`docs/EVIDENCE-MODEL.md`](docs/EVIDENCE-MODEL.md) — how evidence might be represented
+* [`docs/CAREER-HYPOTHESIS-MODEL.md`](docs/CAREER-HYPOTHESIS-MODEL.md) — how career hypotheses might be formed and revised
+* [`docs/HUMAN-IN-THE-LOOP.md`](docs/HUMAN-IN-THE-LOOP.md) — where human judgment belongs
+* [`docs/ETHICS-AND-SAFETY.md`](docs/ETHICS-AND-SAFETY.md) — major ethical and safety concerns
+* [`docs/OPEN-QUESTIONS.md`](docs/OPEN-QUESTIONS.md) — questions that remain unresolved
+* [`research/`](research/) — references and literature notes
+* [`examples/`](examples/) — small conceptual examples
+* [`schemas/`](schemas/) — future structured representations of evidence and hypotheses
 
 ## This project is intentionally incomplete
 
@@ -263,7 +263,7 @@ You do not need to agree with the project to contribute to it.
 
 Strong counterarguments are contributions too.
 
-See `CONTRIBUTING.md`.
+See [`CONTRIBUTING.md`](CONTRIBUTING.md).
 
 ## Current phase
 
@@ -283,4 +283,4 @@ That would need to be demonstrated empirically.
 
 ## Guiding idea
 
-Don't tell learners who they are. Help them gather enough evidence to discover what they could become.
+> **Don't tell learners who they are. Help them gather enough evidence to discover what they could become.**

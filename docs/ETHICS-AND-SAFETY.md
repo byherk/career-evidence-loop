@@ -92,11 +92,11 @@ Career recommendations can affect:
 
 Language should therefore avoid deterministic statements such as:
 
-"You are not suited for this."
+> "You are not suited for this."
 
 Safer language may be:
 
-"We currently have limited evidence in this area."
+> "We currently have limited evidence in this area."
 
 ## Explainability
 
@@ -110,4 +110,4 @@ A recommendation should ideally make clear:
 
 ## Principle
 
-The system should expand possibilities when evidence allows it, not prematurely close them.
+> **The system should expand possibilities when evidence allows it, not prematurely close them.**

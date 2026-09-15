@@ -16,7 +16,7 @@ Goals:
 * identify scientific and ethical risks;
 * invite interdisciplinary critique.
 
-Current phase
+**Current phase**
 
 ## Phase 1 — Evidence model
 

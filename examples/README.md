@@ -18,7 +18,7 @@ Examples should help explore questions such as:
 
 Current examples:
 
-* `learner-journey.md`
-* `career-hypothesis.md`
-* `expert-feedback.md`
-* `evidence-loop.md`
+* [`learner-journey.md`](learner-journey.md)
+* [`career-hypothesis.md`](career-hypothesis.md)
+* [`expert-feedback.md`](expert-feedback.md)
+* [`evidence-loop.md`](evidence-loop.md)

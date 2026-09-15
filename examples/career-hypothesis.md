@@ -29,7 +29,7 @@ Industrial design may be a promising direction for further exploration.
 
 ## Current confidence
 
-Provisional / moderately supported
+> **Provisional / moderately supported**
 
 The exact confidence framework has not yet been defined.
 

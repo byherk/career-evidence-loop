@@ -8,7 +8,7 @@ A learner repeatedly asks about cooking, watches food-preparation demonstrations
 
 Interpretation:
 
-Possible sustained culinary interest
+> **Possible sustained culinary interest**
 
 This is not yet evidence of professional cooking ability.
 
@@ -55,8 +55,8 @@ Collect structured feedback from an experienced culinary professional.
 
 Not:
 
-"Is this learner a chef?"
+> "Is this learner a chef?"
 
 But:
 
-"What did the next experience teach us about whether professional kitchen work remains a promising direction?"
+> "What did the next experience teach us about whether professional kitchen work remains a promising direction?"

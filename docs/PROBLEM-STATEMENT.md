@@ -39,7 +39,7 @@ For example:
 
 The central problem is therefore:
 
-How can a human-AI system support longitudinal learning and career exploration while keeping its conclusions traceable to evidence, uncertainty, and real-world experience?
+> **How can a human-AI system support longitudinal learning and career exploration while keeping its conclusions traceable to evidence, uncertainty, and real-world experience?**
 
 ## Sub-problems
 
