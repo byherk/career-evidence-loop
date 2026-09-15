@@ -65,7 +65,7 @@ Please read enough of the source to explain what it actually supports.
 
 Working notes belong in:
 
-[`research/literature-notes/`](research/literature-notes/)
+`research/literature-notes/`
 
 A literature note should distinguish between:
 

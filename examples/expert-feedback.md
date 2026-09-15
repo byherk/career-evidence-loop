@@ -18,31 +18,31 @@ Prepare two dishes under a fixed time constraint.
 
 ### Knife skills
 
-**7 / 10**
+7 / 10
 
 Good basic control. Some inconsistency remains under time pressure.
 
 ### Timing
 
-**9 / 10**
+9 / 10
 
 Strong sequencing and awareness of concurrent tasks.
 
 ### Hygiene
 
-**10 / 10**
+10 / 10
 
 Consistently maintained throughout the exercise.
 
 ### Seasoning
 
-**6 / 10**
+6 / 10
 
 Technically acceptable but inconsistent.
 
 ### Response to feedback
 
-**9 / 10**
+9 / 10
 
 Adjusted technique quickly after feedback.
 

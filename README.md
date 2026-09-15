@@ -261,13 +261,13 @@ If you are a teacher, counselor, researcher, engineer, learner, chef, designer, 
 
 You do not need to agree with the project to contribute to it.
 
-Strong counterarguments are contributions too.
+> **Strong counterarguments are contributions too.**
 
 See [`CONTRIBUTING.md`](CONTRIBUTING.md).
 
 ## Current phase
 
-Phase 0 — Problem framing and research mapping
+**Phase 0 — Problem framing and research mapping**
 
 The immediate priorities are to:
 

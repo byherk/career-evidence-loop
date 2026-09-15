@@ -8,7 +8,7 @@ A learner repeatedly asks about cooking, watches food-preparation demonstrations
 
 Interpretation:
 
-> **Possible sustained culinary interest**
+**Possible sustained culinary interest**
 
 This is not yet evidence of professional cooking ability.
 

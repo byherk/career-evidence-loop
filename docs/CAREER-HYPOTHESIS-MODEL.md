@@ -68,19 +68,19 @@ The system should preserve why the change occurred.
 
 The following are not equivalent:
 
-### Interest
+**Interest**
 
 > "I enjoy this."
 
-### Ability
+**Ability**
 
 > "I currently perform this well."
 
-### Learning potential
+**Learning potential**
 
 > "I improve quickly when learning this."
 
-### Career fit
+**Career fit**
 
 > "This kind of work may suit my abilities, motivation, context, and desired life."
 
