@@ -20,6 +20,8 @@ The goal is not to tell people what they should become.
 
 It is to help them gather better evidence about what may be worth exploring next.
 
+---
+
 ## The problem
 
 Career guidance often tries to answer questions such as:
@@ -44,6 +46,8 @@ Human judgment matters too, but it should not automatically become ground truth.
 The challenge is therefore not only to gather more evidence.
 
 It is to decide what different kinds of evidence actually support, what remains uncertain, and what experience could help us learn more.
+
+---
 
 ## A possible evidence loop
 
@@ -77,6 +81,8 @@ The picture should change as the learner changes.
 
 A career hypothesis should be revisable when new evidence appears.
 
+---
+
 ## Evidence should not become a label
 
 A useful system needs to preserve different levels of claim.
@@ -109,6 +115,8 @@ is not the same as:
 
 Absence of evidence should not be treated as evidence of absence of potential.
 
+---
+
 ## Where human judgment fits
 
 Teachers, mentors, career counselors, coaches, and practitioners may observe things an AI system cannot reliably evaluate on its own.
@@ -125,6 +133,8 @@ But expert judgment can also be incomplete, inconsistent, context-dependent, or 
 
 One open problem is how to use human judgment without either dismissing it or treating it as unquestionable.
 
+---
+
 ## Questions this project is exploring
 
 Some of the questions that currently matter most are:
@@ -140,6 +150,8 @@ Some of the questions that currently matter most are:
 * What would need to be tested before a system like this could make any claim about real educational or career outcomes?
 
 These are open research questions, not settled conclusions.
+
+---
 
 ## Where contributions would help now
 
@@ -164,6 +176,8 @@ You do not need to agree with the current framework to contribute.
 
 A well-supported disagreement can be more useful than agreement.
 
+---
+
 ## How to participate
 
 If you have a question, critique, example, research reference, or alternative model, you can start with a GitHub Discussion:
@@ -177,6 +191,8 @@ For a specific problem, proposal, or bounded piece of work, open an issue:
 For concrete changes, open a pull request.
 
 See [`CONTRIBUTING.md`](CONTRIBUTING.md) for contribution guidance.
+
+---
 
 ## Research foundations
 
@@ -208,6 +224,8 @@ It may instead lie in how existing ideas could be connected into a longitudinal,
 
 Whether that combination is genuinely useful remains an empirical question.
 
+---
+
 ## Repository map
 
 * [`docs/PROBLEM-STATEMENT.md`](docs/PROBLEM-STATEMENT.md) — the problem the project is trying to understand
@@ -221,6 +239,8 @@ Whether that combination is genuinely useful remains an empirical question.
 * [`research/`](research/) — references and literature notes
 * [`examples/`](examples/) — conceptual examples
 * [`schemas/`](schemas/) — future structured representations of evidence and hypotheses
+
+---
 
 ## Research status
 
